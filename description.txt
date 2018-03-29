@@ -1,0 +1,3 @@
+Jolicraft 16px [100%]
+By André Jolicoeur
+(Converted from jolicraft with Minetest Texture and Resource Pack Converter)
